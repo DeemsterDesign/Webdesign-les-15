@@ -50,10 +50,14 @@ footer {
     height: auto;
 }
 
+h2 {
+    text-align:center;
+}
 table {
-    width: 100%;
+    width: 82%;
     border-collapse: collapse;
     margin-top: 20px;
+    margin:0 auto;
 }
 
 th, td {
